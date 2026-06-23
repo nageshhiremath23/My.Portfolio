@@ -68,13 +68,13 @@ As a Data Analyst & MIS Operations Executive, I have worked on:
 ✔️ Data-Driven Decision Support
 
 🌐 Portfolio:
-nageshhiremath23.github.io/My.Portfolio/
+https://nageshhiremath23.github.io/My.Portfolio/
 
 💻 GitHub:
-github.com/nageshhiremath23
+https://github.com/nageshhiremath23
 
 🔗 LinkedIn:
-linkedin.com/in/nagesh-hiremath-4503b8240/
+https://www.linkedin.com/in/nagesh-hiremath-4503b8240/
 
 I am passionate about transforming complex datasets into actionable business insights and continuously building analytics solutions that drive growth, improve operational efficiency, and support strategic decision-making across Finance, Marketing, Sales, HR, and Operations.
 

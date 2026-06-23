@@ -1,6 +1,6 @@
 🚀 Excited to Share My Data Analyst Portfolio!
 
-Over the past 2+ years, I have been building expertise in Data Analytics, MIS Reporting, Business Intelligence, and Dashboard Development. To showcase my journey, projects, and technical skills, I have created my professional Data Analyst Portfolio.
+Over the past 1+ years, I have been building expertise in Data Analytics, MIS Reporting, Business Intelligence, and Dashboard Development. To showcase my journey, projects, and technical skills, I have created my professional Data Analyst Portfolio.
 
 📊 What You'll Find in My Portfolio:
 
